@@ -2,6 +2,7 @@
   <div id="error-page">
     <h1>Sorry, something went wrong.</h1>
     <p>{{ errorMessage }}</p>
+    <router-link to="Home">Go Home</router-link>
   </div>
 </template>
 
