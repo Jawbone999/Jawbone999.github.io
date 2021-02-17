@@ -3,6 +3,7 @@
     <!-- Application Home Page -->
     <h1>WEBSITE UNDER CONSTRUCTION</h1>
     <p>This might take a while...</p>
+    <p>I'm a super busy guy.........</p>
   </div>
 </template>
 
