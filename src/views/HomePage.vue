@@ -1,9 +1,8 @@
 <template>
   <div id="home-page">
-    <!-- Application Home Page -->
     <h1>WEBSITE UNDER CONSTRUCTION</h1>
-    <p>This might take a while...</p>
-    <p>I'm a super busy guy.........</p>
+    <p>Hey, I'm super busy, so this site isn't up yet. If you're curious about what I'm up to, just ask!</p>
+    <p>I'm most available on Discord as <em>Jawbone999#7318</em>, but if you're too fancy for that then my email should work too: <em>jkhenderson999@gmail.com</em></p>
   </div>
 </template>
 
